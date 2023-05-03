@@ -1,6 +1,6 @@
 let raceNumber = Math.floor(Math.random() * 1000);
 const registeredEarly = false;
-const age = '';
+const age = '18';
 
 if (age > 18 && registeredEarly) {
   console.log(`You will race at 9:30am with race number ${raceNumber += 1000}.`);
