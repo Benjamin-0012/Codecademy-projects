@@ -16,7 +16,7 @@ for (let i = 0; i < vacationSpots.length; i++) {
 
 // Nested Loops
 let bobsFollowers = ['Isaac', 'David', 'Miracle', 'Shadrack'];
-let tinasFollowers = ['Mathew', 'Isaac', 'David'];
+let tinasFollowers = ['Mathew', ' Benja', 'David'];
 let mutualFollowers = [];
 for (let i = 0; i < bobsFollowers.length; i++) {
   for (let j = 0; j < tinasFollowers.length; j++) {
