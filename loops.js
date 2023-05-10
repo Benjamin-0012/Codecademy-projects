@@ -35,7 +35,20 @@ while (currentCard !== 'spade') {
   console.log(currentCard);
 }
 
+// Do...While Statements
+let cupsOfSugarNeeded = 2;
+let cupsAdded = 0;
 
+// do {
+//   cupsAdded = cupsAdded + 1; 
+//   cupsAdded++;
+// } while (cupsAdded < cupsOfSugarNeeded)
+//   console.log(cupsAdded);
+
+  do {
+ cupsAdded++
+ console.log(cupsAdded + ' cup was added') 
+} while (cupsAdded < cupsOfSugarNeeded);
 
   
    
